@@ -5,11 +5,11 @@ int main() {
     int a, b, op;
     double result;
 
-    cout << "Введите первое число\n";
-    cin >> a;
-
     cout << "Введите второе число\n";
     cin >> b;
+  
+    cout << "Введите первое число\n";
+    cin >> a;
     
     cout << "Введите оператор\n1\t+\n2\t-\n3\t*\n4\t/\n\n";
     cin >> op;
